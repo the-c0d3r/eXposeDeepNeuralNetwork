@@ -1,0 +1,9 @@
+keras
+h5py
+nltk
+matplotlib
+scipy
+numpy
+sklearn
+zerorpc
+peewee
