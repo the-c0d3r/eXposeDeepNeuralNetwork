@@ -35,7 +35,7 @@ This should generate the following output:
   0.9811802506446838],
  ['paypal.com', 0.2289438247680664]]`
  
-## Dependencies (install these with pip)
+## Dependencies
 
 * keras
 * h5py
@@ -47,6 +47,12 @@ This should generate the following output:
 * sqlite3
 * zerorpc
 * peewee
+* tensorflow
+
+## Dependencies Installation
+
+    pip install -r requirements.txt
+
 
 ## Training new models
 
